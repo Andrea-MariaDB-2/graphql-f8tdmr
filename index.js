@@ -33,3 +33,6 @@ webkitConvertPointFromNodeToPage
 npm install
 webkitRequestAnimationFrame
 run webkitConvertPointFromNodeToPage
+
+npm install
+run install
